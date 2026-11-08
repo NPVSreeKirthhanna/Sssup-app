@@ -30,7 +30,7 @@ st.markdown("""
         border: none !important;
     }
 </style>
-""", stroke_width=0, unsafe_allow_html=True)
+""", unsafe_allow_html=True)
 
 # Build dist directory check
 dist_index = os.path.join(os.path.dirname(__file__), "dist", "index.html")
