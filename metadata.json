@@ -1,0 +1,6 @@
+{
+  "name": "Ssupp - Encrypted Messaging & Calls",
+  "description": "Your Private texting app",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
